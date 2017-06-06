@@ -12,12 +12,12 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:paddingTop="8dp"
+        android:text="PILIH NAVIGASI"
         android:textAlignment="center"
         android:textSize="24sp"
         android:textStyle="bold"
         tools:layout_editor_absoluteX="154dp"
-        tools:layout_editor_absoluteY="248dp"
-        tools:text="PILIH NAVIGASI" />
+        tools:layout_editor_absoluteY="248dp" />
 
     <GridLayout
         android:layout_width="match_parent"
