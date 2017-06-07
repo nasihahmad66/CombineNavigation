@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="8dp"
-    tools:context="xir1n23.remidiuts.telkomschid.combinenavigation.SwipePage2Fragment">
+    tools:context="xir1n23.remidiuts.telkomschid.combinenavigation.Page2Fragment">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView
